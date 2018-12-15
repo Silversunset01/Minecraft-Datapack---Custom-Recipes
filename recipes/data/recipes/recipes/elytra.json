@@ -1,0 +1,26 @@
+{
+   "type": "crafting_shaped",
+   "pattern": [
+	   "#1#",
+	   "121",
+	   "333"
+   ],
+   "key": {
+	   "1": {
+		   "item": "minecraft:phantom_membrane"
+	   },
+	   "2": {
+		   "item": "minecraft:iron_chestplate"
+	   },
+	   "3": {
+		   "item": "minecraft:diamond"
+	   },
+	   "#": {
+		   "item": "minecraft:air"
+	   }
+   },
+   "result": {
+	   "item": "minecraft:elytra",
+	   "count": 1
+   }
+}

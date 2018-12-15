@@ -1,0 +1,23 @@
+{
+   "type": "crafting_shaped",
+   "pattern": [
+	   "313",
+	   "121",
+	   "313"
+   ],
+   "key": {
+	   "1": {
+		   "item": "minecraft:bone_meal"
+	   },
+	   "2": {
+		   "item": "minecraft:dragon_breath"
+	   },
+	   "3": {
+		   "item": "minecraft:redstone"
+	   }
+   },
+   "result": {
+	   "item": "minecraft:dragon_head",
+	   "count": 1
+   }
+}
