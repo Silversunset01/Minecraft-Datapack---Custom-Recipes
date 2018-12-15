@@ -2,7 +2,7 @@
 This datapack creates custom recipes for Minecraft, tested on version 1.13.2. These recipes will show up in the players recipe book as well.
 
 * Breakdown Quartz blocks back into quartz   
-![](https://i.imgur.com/itgkIBW.png)
+![](https://i.imgur.com/JIrzvI9.png)
 
 * Custom recipe for Elytra  
 ![](https://i.imgur.com/kkRRqgZ.png)
