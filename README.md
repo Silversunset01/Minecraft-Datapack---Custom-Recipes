@@ -12,3 +12,6 @@ This datapack creates custom recipes for Minecraft, tested on version 1.13.2. Th
 
 * Custom recipe for Red Sand  
 ![](https://i.imgur.com/c5TmiyA.png)
+
+* Custom recipe for Trident
+*[](https://i.imgur.com/3inqdWT.png)
