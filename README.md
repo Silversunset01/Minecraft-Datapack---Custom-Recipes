@@ -15,5 +15,5 @@ To install: copy the `recipes` folder into your `world/datapack` folder, then re
 * Custom recipe for Red Sand  
 ![](https://i.imgur.com/c5TmiyA.png)
 
-* Custom recipe for Trident
-*[](https://i.imgur.com/3inqdWT.png)
+* Custom recipe for Trident  
+![](https://i.imgur.com/3inqdWT.png)
